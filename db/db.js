@@ -5,4 +5,5 @@ const main = () => {
     .then(() => console.log('mongo baglandi'))
     .catch((err) => console.log(err))
 }
+
 main()
