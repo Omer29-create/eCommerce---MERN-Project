@@ -20,5 +20,4 @@ const dro = [
     price: 10,
 }
 ]
-
 Product.insertMany(dro).then(() => console.log('Geldik sükür')).catch(err=>console.log(err))
