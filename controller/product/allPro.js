@@ -7,4 +7,3 @@ const allPro = () => {
 }
 
 module.exports = allPro
-
