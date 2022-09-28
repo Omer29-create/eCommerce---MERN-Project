@@ -13,8 +13,7 @@ const dro = [
         title: 'Ali',
         price: 10,
 },
-{
-    
+{    
     title: 'Ahmet',
     price: 10,
 }
