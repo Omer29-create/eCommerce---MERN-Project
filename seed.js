@@ -9,8 +9,7 @@ const main = () => {
 main()
 
 const dro = [
-    {
-    
+    { 
         title: 'Ali',
         price: 10,
 },
