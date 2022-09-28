@@ -7,7 +7,6 @@ app.use(express.json())
 
 require('./db/db')
 // app.get('/', (req, res) => {res.send('index')})
-
 app.use('/products', productRouter)
 
 module.exports=app
