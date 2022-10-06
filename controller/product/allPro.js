@@ -4,5 +4,4 @@ const Product = require('../../models/productModels')
 const allPro = () => {
 
 }
-
 module.exports = allPro
