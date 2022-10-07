@@ -7,5 +7,3 @@ const main = () => {
 }
 
 main()
-
-
