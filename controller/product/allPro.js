@@ -5,9 +5,6 @@ const Product = require('../../models/productModels')
 
 
 
-
-
-
 const allPro = () => {
 
 }
