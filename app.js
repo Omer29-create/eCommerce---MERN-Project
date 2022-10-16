@@ -1,7 +1,6 @@
 const express = require('express')
 
 
-
 const app = express()
 const productRouter = require('./router/productRouter')
 
